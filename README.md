@@ -28,13 +28,14 @@ test
 
 
 
+
 ## 社群
 
 Telegram：https://t.me/c/LXDAO/6215
 
-微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test_wechat_01/main/assets/muxin-web3/images/2026-01-09-1767942617255-WX20251223-175550_2x.png)
+微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test_wechat_01/main/assets/muxin-web3/images/2026-01-09-1767942714046-IMG_6376.JPG)
 
-微信联系人：_muxin_00
+微信联系人：_muxin_001
 ## 学习资料/课程安排
 
 学习内容0102
@@ -200,4 +201,5 @@ Telegram：https://t.me/c/LXDAO/6215
 ## 请假规则
 
 每周请假 2 次
+
 
