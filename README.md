@@ -3,15 +3,12 @@
 ## 介绍
 
 介绍内容
-
 ## 关键词
 
-关键词内容
-
+test
 ## 面向人群
 
-面向人群内容
-
+面向人群内容 01
 ## 报名时间
 
 - 报名开始时间：2026-01-08
@@ -28,33 +25,33 @@
 - Email：muxin333333@gmail.com
 ## 发起组织
 
-残酷共学发起组织方，可以是多个
+
+
 
 ## 请假规则
 
 每周请假 2 次
 
+
 ## 社群
 
-Telegram：
+微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test_wechat_01/main/assets/muxin-web3/images/2026-01-09-1767942549899-IMG_6376.JPG)
 
+微信联系人：_muxin_00
 ## 学习资料/课程安排
 
-学习内容
+学习内容01
+
 
 ## 共学激励
 
-学到知识就是最大的福利！
+学到知识就是最大的福利！01
+
 
 ## 更多信息
 
-更多信息内容
+更多信息内容01
 
-## 报名和打卡规则
-
-- 报名：https://www.notion.so/lxdao/232dceffe40b8030993ad26f2eb6bed2
-
-- 打卡：https://www.notion.so/lxdao/232dceffe40b80508330c5ee936d4dab
 
 ## 残酷共学打卡记录表
 
@@ -192,3 +189,10 @@ Telegram：
 - 淘汰人数: 0
 - 淘汰率: 0.00%
 <!-- STATISTICALDATA_END -->
+
+
+## 报名和打卡规则
+
+- 报名：https://www.notion.so/lxdao/232dceffe40b8030993ad26f2eb6bed2
+
+- 打卡：https://www.notion.so/lxdao/232dceffe40b80508330c5ee936d4dab
