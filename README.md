@@ -28,29 +28,26 @@ test
 
 
 
-## 请假规则
-
-每周请假 2 次
-
-
 ## 社群
 
-微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test_wechat_01/main/assets/muxin-web3/images/2026-01-09-1767942549899-IMG_6376.JPG)
+Telegram：https://t.me/c/LXDAO/6215
+
+微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test_wechat_01/main/assets/muxin-web3/images/2026-01-09-1767942617255-WX20251223-175550_2x.png)
 
 微信联系人：_muxin_00
 ## 学习资料/课程安排
 
-学习内容01
+学习内容0102
 
 
 ## 共学激励
 
-学到知识就是最大的福利！01
+学到知识就是最大的福利！0102
 
 
 ## 更多信息
 
-更多信息内容01
+更多信息内容0102
 
 
 ## 残酷共学打卡记录表
@@ -197,3 +194,9 @@ test
 - 报名：https://www.notion.so/lxdao/232dceffe40b8030993ad26f2eb6bed2
 
 - 打卡：https://www.notion.so/lxdao/232dceffe40b80508330c5ee936d4dab
+
+
+## 请假规则
+
+每周请假 2 次
+
